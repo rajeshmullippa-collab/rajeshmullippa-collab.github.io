@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Confidential vs Stealth on Tari Ootle: What Is Actually Hidden, and What Still Leaks"
-date: 2026-10-30 12:30:00 +0530
+date: 2026-10-30 11:00:00 +0530
 tags: [tari, ootle, privacy, cryptography]
 ---
 
